@@ -1,0 +1,130 @@
+[
+  {
+    "sku": "ALIBABA-SMART-MINI-01",
+    "name": "Smart AMOLED Fitness Tracker Watch",
+    "category": "Consumer Electronics",
+    "moq": 50,
+    "fob_price_usd": 8.5,
+    "suggested_retail_usd": 29.99,
+    "estimated_margin_percent": 71.6,
+    "volume_tiers": [
+      {
+        "min_qty": 50,
+        "fob_price_usd": 8.5
+      },
+      {
+        "min_qty": 200,
+        "fob_price_usd": 7.6
+      },
+      {
+        "min_qty": 1000,
+        "fob_price_usd": 6.8
+      }
+    ],
+    "sample_cost_usd": 15.0,
+    "lead_time_days": 7,
+    "certifications": [
+      "CE",
+      "RoHS",
+      "FCC"
+    ],
+    "specs": {
+      "screen": "1.43 inch AMOLED display (466x466)",
+      "battery": "300mAh, 12-day standby",
+      "waterproof": "IP68 waterproof rating",
+      "sensors": [
+        "SpO2 oxygen sensor",
+        "Dynamic heart rate",
+        "Sleep tracking"
+      ],
+      "connectivity": "Bluetooth 5.3 + Dual-mode calling"
+    },
+    "customization": {
+      "custom_logo_moq": 100,
+      "custom_packaging_moq": 500,
+      "custom_firmware_moq": 1000
+    },
+    "elevator_pitch": "Our flagship AMOLED Smart Tracker offers retail-grade build quality at just $8.50 FOB, giving resellers and e-commerce stores over 70% gross margin with low 50-unit MOQ."
+  },
+  {
+    "sku": "ALIBABA-DIFFUSER-PRO-02",
+    "name": "Ultrasonic Ambient Aroma Diffuser with RGB Nightlight",
+    "category": "Home and Living",
+    "moq": 100,
+    "fob_price_usd": 3.2,
+    "suggested_retail_usd": 18.99,
+    "estimated_margin_percent": 83.1,
+    "volume_tiers": [
+      {
+        "min_qty": 100,
+        "fob_price_usd": 3.2
+      },
+      {
+        "min_qty": 500,
+        "fob_price_usd": 2.75
+      },
+      {
+        "min_qty": 2000,
+        "fob_price_usd": 2.3
+      }
+    ],
+    "sample_cost_usd": 8.0,
+    "lead_time_days": 5,
+    "certifications": [
+      "CE",
+      "RoHS"
+    ],
+    "specs": {
+      "capacity": "500ml water tank",
+      "coverage": "25-30 square meters",
+      "sound_level": "<25dB whisper quiet",
+      "lighting": "7-color auto cycling LED"
+    },
+    "customization": {
+      "custom_logo_moq": 200,
+      "custom_packaging_moq": 1000
+    },
+    "elevator_pitch": "A high-demand 500ml ultrasonic aroma diffuser costing only $3.20 FOB. Extremely popular for Amazon FBA and TikTok Shop sellers retailing at $18.99."
+  },
+  {
+    "sku": "ALIBABA-SOLAR-FLOOD-03",
+    "name": "100W Commercial Solar LED Floodlight with Remote",
+    "category": "Industrial and Outdoor Lighting",
+    "moq": 20,
+    "fob_price_usd": 14.5,
+    "suggested_retail_usd": 49.0,
+    "estimated_margin_percent": 70.4,
+    "volume_tiers": [
+      {
+        "min_qty": 20,
+        "fob_price_usd": 14.5
+      },
+      {
+        "min_qty": 100,
+        "fob_price_usd": 12.8
+      },
+      {
+        "min_qty": 500,
+        "fob_price_usd": 11.2
+      }
+    ],
+    "sample_cost_usd": 25.0,
+    "lead_time_days": 10,
+    "certifications": [
+      "CE",
+      "RoHS",
+      "IP67"
+    ],
+    "specs": {
+      "solar_panel": "Monocrystalline 6V 18W",
+      "battery": "LifePO4 3.2V 15000mAh",
+      "lumens": "2200 Lumens",
+      "casing": "Die-cast aluminum, corrosion resistant"
+    },
+    "customization": {
+      "custom_logo_moq": 50,
+      "custom_packaging_moq": 200
+    },
+    "elevator_pitch": "Commercial grade 100W solar floodlight with Grade A LifePO4 battery and die-cast aluminum casing. Ideal for hardware distributors and contractors at $14.50 FOB."
+  }
+]

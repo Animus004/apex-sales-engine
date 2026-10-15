@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.log
+*.db
+*.sqlite
+
+# Secrets and local configurations
+config/config.json
+config/llm_keys.json
+secrets/
+.env
+*.env
+
+# Runtime leads and generated logs
+data/leads/*.csv
+!data/leads/.gitkeep
+!data/leads/sample_leads.csv
+data/call_outcomes/*.csv
+!data/call_outcomes/.gitkeep
+data/cache/*
+!data/cache/.gitkeep
+data/recordings/*
+!data/recordings/.gitkeep
+
+# IDEs
+.idea/
+.vscode/

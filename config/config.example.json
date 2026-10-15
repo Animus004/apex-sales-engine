@@ -1,0 +1,13 @@
+{
+  "dialer_engine_url": "http://localhost:8098",
+  "calling_window_start": "10:00",
+  "calling_window_end": "19:00",
+  "max_attempts_per_lead": 3,
+  "retry_busy_minutes": 20,
+  "retry_no_answer_hours": 4,
+  "dial_pace_seconds": 15,
+  "company_name": "Apex Global Sourcing",
+  "agent_name": "Alex",
+  "google_sheets_crm_id": "",
+  "whatsapp_followup_enabled": false
+}
